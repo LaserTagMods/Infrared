@@ -10,6 +10,7 @@
  * send button.
  * A visible LED can be connected to STATUS_PIN to provide status.#13
  *
+
  * The logic is:
  * If the button is pressed, send the IR code.
  * If an IR code is received, recor
